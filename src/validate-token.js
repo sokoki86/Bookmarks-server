@@ -13,3 +13,5 @@ function validateBearerToken(req, res, next) {
     }
     next()
   };
+
+module.exports = validateBearerToken
