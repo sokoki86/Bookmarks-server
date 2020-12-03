@@ -3,3 +3,5 @@
 {"message":"Title is required","level":"error"}
 {"message":"Title is required","level":"error"}
 {"message":"Bookmark with id 00f04785-863e-49dd-8a0b-67cb98253c20 created","level":"info"}
+{"message":"Bookmark with id 44fb943b-6193-4bb4-a617-15c796f7019d created","level":"info"}
+{"message":"Bookmark with id 43e81021-3422-4f21-b7a4-596f8086da02 deleted.","level":"info"}
